@@ -1,0 +1,17 @@
+#harga{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#harga td, harga th {
+    border:1px solid colorrgb(0, 0, 0);
+    padding: 8px;
+}
+
+#harga th{
+    background-color: darkgrey;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: white;
+}
